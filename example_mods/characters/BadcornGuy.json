@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dave'sAwesomeFriend idle"
+		},
+		{
+			"offsets": [
+				45,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dave'sAwesomeFriend left"
+		},
+		{
+			"offsets": [
+				39,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dave'sAwesomeFriend up"
+		},
+		{
+			"offsets": [
+				37,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dave'sAwesomeFriend down"
+		},
+		{
+			"offsets": [
+				-50,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dave'sAwesomeFriend right"
+		},
+		{
+			"offsets": [
+				0,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Dave'sAwesomeFriend phone"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dave'sAwesomeFriend",
+	"position": [
+		-350,
+		90
+	],
+	"healthicon": "AwesomeFriend",
+	"flip_x": false,
+	"healthbar_colors": [
+		9,
+		181,
+		0
+	],
+	"camera_position": [
+		-40,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

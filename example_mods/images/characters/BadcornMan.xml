@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BadcornMan.png">
+<SubTexture name="BadcornMan down0000" x="705" y="3109" width="702" height="277" frameX="-126" frameY="-447" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan down0001" x="0" y="3109" width="705" height="296" frameX="-122" frameY="-428" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan down0002" x="2641" y="2591" width="704" height="307" frameX="-126" frameY="-405" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan down0003" x="2809" y="2157" width="710" height="317" frameX="-124" frameY="-394" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0000" x="1465" y="645" width="622" height="638" frameX="-121" frameY="-114" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0001" x="2152" y="0" width="657" height="592" frameX="-127" frameY="-158" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0002" x="2152" y="1184" width="656" height="571" frameX="-132" frameY="-178" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0003" x="2809" y="1089" width="669" height="539" frameX="-131" frameY="-199" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0004" x="2152" y="1184" width="656" height="571" frameX="-132" frameY="-178" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0005" x="2152" y="1184" width="656" height="571" frameX="-132" frameY="-178" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0006" x="2152" y="592" width="657" height="592" frameX="-127" frameY="-158" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0007" x="2152" y="592" width="657" height="592" frameX="-127" frameY="-158" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0008" x="1304" y="1385" width="656" height="602" frameX="-118" frameY="-133" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0009" x="1304" y="1385" width="656" height="602" frameX="-118" frameY="-133" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0010" x="0" y="1385" width="622" height="638" frameX="-121" frameY="-114" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan idle0011" x="1465" y="645" width="622" height="638" frameX="-121" frameY="-114" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan left0000" x="1928" y="2591" width="713" height="484" frameX="-12" frameY="-256" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan left0001" x="1267" y="2591" width="661" height="497" frameX="-30" frameY="-234" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan left0002" x="657" y="2591" width="610" height="512" frameX="-45" frameY="-213" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan left0003" x="2809" y="1628" width="580" height="529" frameX="-68" frameY="-188" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan phone0000" x="729" y="0" width="736" height="672" frameX="-12" frameY="-60" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan phone0001" x="0" y="0" width="729" height="716" frameX="-48" frameY="-35" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan phone0002" x="0" y="2591" width="657" height="518" frameX="-133" frameY="-207" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan phone0003" x="0" y="2591" width="657" height="518" frameX="-133" frameY="-207" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan phone0004" x="0" y="2591" width="657" height="518" frameX="-133" frameY="-207" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan phone0005" x="2809" y="546" width="702" height="543" frameX="-93" frameY="-173" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan right0000" x="829" y="2023" width="837" height="565" frameX="-6" frameY="-154" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan right0001" x="0" y="2023" width="829" height="568" frameX="-3" frameY="-149" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan right0002" x="1666" y="2023" width="820" height="554" frameX="0" frameY="-154" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan right0003" x="2809" y="0" width="822" height="546" frameX="0" frameY="-158" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan up0000" x="0" y="716" width="712" height="669" frameX="-58" frameY="-67" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan up0001" x="712" y="716" width="694" height="662" frameX="-62" frameY="-75" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan up0002" x="1465" y="0" width="687" height="645" frameX="-64" frameY="-89" frameWidth="843" frameHeight="860" />
+<SubTexture name="BadcornMan up0003" x="622" y="1385" width="682" height="631" frameX="-64" frameY="-103" frameWidth="843" frameHeight="860" />
+</TextureAtlas>

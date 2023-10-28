@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Everybody.png">
+<SubTexture name="everybody0000" x="0" y="0" width="405" height="507" frameX="-479" frameY="-182" frameWidth="1324" frameHeight="1096" />
+</TextureAtlas>

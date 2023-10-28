@@ -1,0 +1,3 @@
+just type in lyric word for value 1
+color hex code for value 2
+that's it

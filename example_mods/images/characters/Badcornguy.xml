@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Badcornguy.png">
+<SubTexture name="down0000" x="1580" y="1217" width="404" height="186" frameX="-176" frameY="-429" frameWidth="725" frameHeight="615" />
+<SubTexture name="down0001" x="1580" y="1020" width="404" height="197" frameX="-176" frameY="-418" frameWidth="725" frameHeight="615" />
+<SubTexture name="idle0000" x="0" y="593" width="486" height="499" frameX="-154" frameY="-107" frameWidth="725" frameHeight="615" />
+<SubTexture name="idle0001" x="1580" y="794" width="494" height="226" frameX="-152" frameY="-366" frameWidth="725" frameHeight="615" />
+<SubTexture name="left0000" x="0" y="1092" width="582" height="400" frameX="-64" frameY="-215" frameWidth="725" frameHeight="615" />
+<SubTexture name="left0001" x="582" y="1092" width="572" height="400" frameX="-75" frameY="-215" frameWidth="725" frameHeight="615" />
+<SubTexture name="phone0000" x="534" y="0" width="512" height="584" frameX="-154" frameY="-22" frameWidth="725" frameHeight="615" />
+<SubTexture name="phone0001" x="486" y="593" width="557" height="499" frameX="-154" frameY="-107" frameWidth="725" frameHeight="615" />
+<SubTexture name="right0000" x="1580" y="0" width="571" height="397" frameX="-154" frameY="-209" frameWidth="725" frameHeight="615" />
+<SubTexture name="right0001" x="1580" y="397" width="558" height="397" frameX="-153" frameY="-209" frameWidth="725" frameHeight="615" />
+<SubTexture name="up0000" x="0" y="0" width="534" height="593" frameX="-141" frameY="-2" frameWidth="725" frameHeight="615" />
+<SubTexture name="up0001" x="1046" y="0" width="534" height="582" frameX="-141" frameY="-14" frameWidth="725" frameHeight="615" />
+</TextureAtlas>
