@@ -48,7 +48,7 @@ jobs:
           haxelib install flixel-addons 2.9.0
           haxelib install tjson
           haxelib install hxjsonast
-          haxelib install hxCodec 2.5.1          
+          haxelib install hxCodec 2.5.1
           haxelib install linc_luajit 0.0.6
           haxelib install hscript
           haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
